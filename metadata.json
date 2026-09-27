@@ -1,0 +1,6 @@
+{
+  "name": "EVOFIT - Seu treino. Sua evolução.",
+  "description": "Aplicativo fitness para acompanhamento de treinos, cargas, evolução corporal e métricas com painel administrativo e rastreamento de influenciadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
